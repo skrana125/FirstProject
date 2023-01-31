@@ -1,4 +1,4 @@
-# input shoyld be [2, 1, 5, 3, 11, 7]
+# input should be [2, 1, 5, 3, 11, 7]
 puts"Enter length"
 num = gets.chomp.to_i
 array = []
